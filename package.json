@@ -1,0 +1,14 @@
+{
+    "name": "electron",
+    "version": "1.0.0",
+    "description": "electron practice",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "lys",
+    "license": "ISC",
+    "devDependencies": {
+        "electron": "^7.1.5"
+    }
+}
